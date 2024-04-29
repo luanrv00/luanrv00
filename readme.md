@@ -1,4 +1,4 @@
-**Hi, I'm Luan Ramos Vicente. Like many of you I work with computers.**
+**Hi, I'm Luan. Like many of you I work with computers.**
 
 ### There is current scenarios I've working for the past 6 years
 
