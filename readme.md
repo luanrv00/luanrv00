@@ -1,10 +1,10 @@
 **Hi, I'm Luan. Like many of you I work with computers.**
 
-### There is current scenarios I've working on for the past 6 years
+### There is some scenarios I've working on for the past 6 years
 
-- Web application with HTML/CSS and JavaScript ecosystem (Reactjs, Nodejs);
+- Web application with HTML/CSS and JavaScript ecosystem (Reactjs, Nextjs, Nodejs);
 - Local and production environments with Linux and Docker;
-- CI/CD environments with GitHub/GitLab/Bitbucket and tools such Travis and Semaphore;
+- CI/CD environments with GitHub/GitLab/Bitbucket and tools such Travis, Semaphore, GitHub Actions and GitLab CI;
 - Product development management strategies and metrics such Agile methods (Scrum, Kanban, OKR, OnCall);
 - Application tests automation with Cypress, Jest, RSpec and others.
 
