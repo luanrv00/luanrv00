@@ -11,7 +11,7 @@
 ### There is some technologies I have strong interest:
 
 - Linux
-- Nextjs
+- JavaScript
 - Ruby
 - Python
 - Docker
