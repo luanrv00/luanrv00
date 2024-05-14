@@ -1,6 +1,6 @@
 **Hi, I'm Luan. Like many of you I work with computers.**
 
-### Some scenarios I've working on for the past 6 years
+### Some scenarios I've working on for the past 6 years:
 
 - Web application with HTML/CSS and JavaScript ecosystem (Reactjs, Nextjs, Nodejs);
 - Local and production environments with Linux and Docker;
