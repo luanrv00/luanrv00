@@ -2,11 +2,11 @@
 
 ### Scenarios I've working on for the past 6 years:
 
-- Web application with HTML/CSS and JavaScript ecosystem (Reactjs, Nextjs, Nodejs);
+- Frontend development with HTML, CSS and JavaScript ecosystem (mostly Reactjs);
 - Local and production environments with Linux and Docker;
 - CI/CD environments with GitHub/GitLab/Bitbucket and tools such Travis, Semaphore, GitHub Actions and GitLab CI;
-- Product development management strategies and metrics such Agile methods (Scrum, Kanban, OKR, OnCall);
-- Application tests automation with Cypress, Jest, RSpec and others.
+- Digital product development strategies and metrics such Agile methods (Scrum, Kanban, OKR, OnCall);
+- Web application tests automation with Cypress, Jest, RSpec and others.
 
 ### There is some technologies I have strong interest:
 
