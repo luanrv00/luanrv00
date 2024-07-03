@@ -18,3 +18,7 @@
 - Kubernetes
 - Terraform
 - Cypress
+
+---
+
+[![wakatime](https://wakatime.com/badge/user/c41bea35-0de2-40d3-97c6-9aa5214d4af9.svg)](https://wakatime.com/@c41bea35-0de2-40d3-97c6-9aa5214d4af9)
