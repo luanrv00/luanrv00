@@ -8,7 +8,7 @@
 - Digital product development strategies and metrics such Agile methods (Scrum, Kanban, OKR, OnCall);
 - Web application tests automation with Cypress, Jest, RSpec and others.
 
-### There is some technologies I have strong interest:
+### There is some keywords I have strong interest:
 
 - Linux
 - JavaScript
