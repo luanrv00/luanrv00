@@ -14,6 +14,7 @@
 - JavaScript
 - Ruby
 - Python
+- Rust
 - Docker
 - Kubernetes
 - Terraform
