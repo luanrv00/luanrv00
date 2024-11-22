@@ -6,7 +6,7 @@
 - Local and production environments with Linux, Docker and Terraform;
 - CI/CD environments with GitHub/GitLab/Bitbucket and tools such Travis, Semaphore, GitHub Actions and GitLab CI;
 - Software development strategies and metrics such Agile methods, OKR and OnCall;
-- Web application tests automation with Playwright, Cypress, Jest, RSpec and others.
+- E2E and unit tests with Playwright, Cypress, Jest, RSpec and others.
 
 ---
 
