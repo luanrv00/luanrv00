@@ -1,28 +1,12 @@
 **Hi, I'm Luan. Like many of you I work with computers.**
 
-### Scenarios I've working on for the past 6 years:
+### Scenarios I've working on for the past 6 years
 
-- Frontend development with HTML, CSS and JavaScript ecosystem (mostly Reactjs);
-- Local and production environments with Linux and Docker;
+- Web apps with JavaScript, Ruby, Python and Java;
+- Local and production environments with Linux, Docker and Terraform;
 - CI/CD environments with GitHub/GitLab/Bitbucket and tools such Travis, Semaphore, GitHub Actions and GitLab CI;
-- Digital product development strategies and metrics such Agile methods (Scrum, Kanban, OKR, OnCall);
-- Web application tests automation with Cypress, Jest, RSpec and others.
-
-### There is some keywords I have strong interest:
-
-- Linux
-- JavaScript
-- Ruby
-- Python
-- Rust
-- Docker
-- Kubernetes
-- Terraform
-- Cypress
-
-### Fun fact
-
-I added a reference to the Matrix movie in this readme
+- Software development strategies and metrics such Agile methods, OKR and OnCall;
+- Web application tests automation with Playwright, Cypress, Jest, RSpec and others.
 
 ---
 
